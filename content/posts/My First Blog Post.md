@@ -9,16 +9,4 @@ tags:
 ---
 
 
-something something something
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-
 !![Image Description](/images/Screenshot%202025-09-30%20115504.png)
