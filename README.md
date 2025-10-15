@@ -3,7 +3,7 @@
 This repository contains the source code and automation setup for my personal blog, [**blog.kanishdangol.com**](https://blog.kanishdangol.com).
 
 The blog is built with [Hugo](https://gohugo.io) and automated using PowerShell and Python.  
-It was originally created to document my progress and reflections while working on my **Senior Design project**, and has since expanded to include posts about technology, cybersecurity, and personal learning.
+I created it to document my progress and reflections while working on my **Senior Design project**, and might expand it to include posts about technology, cybersecurity, and personal learning in the future.
 
 ---
 
@@ -24,7 +24,7 @@ The workflow allows me to write posts in Obsidian, then run a single PowerShell 
 ---
 
 ## File Structure
-
+```
 kanishblog/
 ├── archetypes/ # Default content templates
 ├── content/posts/ # Markdown blog posts
@@ -35,7 +35,7 @@ kanishblog/
 ├── updateblog.ps1 # PowerShell script for syncing, building, and deploying the blog
 ├── hugo.toml # Hugo configuration file
 └── .gitmodules # Theme submodule tracking
-
+```
 
 ---
 
@@ -70,4 +70,4 @@ This will:
  - Push both source and production files to GitHub
 
 My site will then be live at:
-blog.kanishdangol.com
+[**blog.kanishdangol.com**](https://blog.kanishdangol.com)
