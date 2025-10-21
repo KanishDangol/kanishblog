@@ -6,8 +6,15 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Our Decentralized Design Protects Your Identity</title>
+      <link>/posts/why-decentralize/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/why-decentralize/</guid>
+      <description>&lt;p&gt;People talk about hedging their bets — not putting all their eggs in one basket, diversifying their portfolio to mitigate risk.&lt;br&gt;&#xA;So why don’t we apply the same logic we use for financial decisions to our personal data?&#xA;Why do we still hand over our private information to individual corporations for the sake of “verification,” trusting them to handle it responsibly?&lt;/p&gt;&#xA;&lt;p&gt;When a single entity controls all of your data, you’re at their mercy — and any cracks in their system could have devastating consequences for you.&lt;br&gt;&#xA;The solution? &lt;strong&gt;Decentralization.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Real Cost of Trusting the Internet with Your Identity</title>
       <link>/posts/what-were-trying-to-solve/</link>
