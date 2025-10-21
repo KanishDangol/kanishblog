@@ -1,0 +1,13 @@
+/* Thinner border for images */
+figure {
+    border: 1px solid #ccc; /* adjust color if needed */
+    padding: 5px;           /* optional, to give some spacing */
+    margin: 10px 0;         /* optional, space above/below */
+    border-radius: 4px;     /* optional, rounded corners */
+}
+
+/* Make captions less thick */
+figcaption {
+    font-weight: normal;    /* remove bold if too heavy */
+    font-size: 0.9em;       /* slightly smaller text */
+}
