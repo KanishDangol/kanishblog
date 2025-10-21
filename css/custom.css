@@ -1,11 +1,11 @@
 img {
-    border-width: 1px !important;
+    border-width: 3px !important;
     border-style: solid !important;
     border-color: #444 !important; /* adjust as needed */
 }
 
 figure {
-    border-width: 1px !important;
+    border-width: 2px !important;
     border-style: solid !important;
     border-color: #444 !important;
     padding: 2px !important;
