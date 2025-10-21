@@ -1,14 +1,17 @@
 figure {
-    border: 5px solid #ccc; /* adjust color if needed */
-    padding: 5px;           /* optional, to give some spacing */
-    margin: 10px 0;         /* optional, space above/below */
-    border-radius: 4px;     /* optional, rounded corners */
+    border: 8px solid #aaa;  /* thicker and slightly darker for visibility */
+    padding: 10px;            /* more spacing inside the border */
+    margin: 15px 0;           /* more space above/below the figure */
+    border-radius: 6px;       /* slightly more rounded corners for style */
 }
 
-/* Make captions less thick */
+/* Make captions less heavy but readable */
 figcaption {
-    font-weight: normal;    /* remove bold if too heavy */
-    font-size: 0.9em;       /* slightly smaller text */
+    font-weight: normal;      /* not bold */
+    font-size: 1em;           /* normal size, adjust if needed */
+    color: #333;              /* slightly darker for readability */
+    margin-top: 5px;          /* spacing between image and caption */
+    text-align: center;       /* center-align caption under image */
 }
 
 
