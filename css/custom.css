@@ -1,15 +1,15 @@
 figure {
-    border: 3px solid #FFD700;  /* bright yellow for contrast with dark background */
-    padding: 8px;               /* space between image and border */
-    margin: 12px 0;             /* spacing above and below the figure */
-    border-radius: 4px;         /* optional rounded corners */
+    border: 2px solid #FFD700;  /* bright yellow for contrast with dark background */
+    padding: 6px;               /* space between image and border */
+    margin: 5px 0;             /* spacing above and below the figure */
+    
 }
 
 figcaption {
     font-weight: normal;
-    font-size: 0.9em;
+    font-size: 0.7em;
     color: #FFD700;             /* match border color for consistency */
     text-align: center;         /* center the caption */
-    margin-top: 4px;
+    margin-top: 2px;
 }
 
