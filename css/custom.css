@@ -1,15 +1,22 @@
+/* Remove any outer boxes or nested figure styling from the theme */
 figure {
-    border: 2px solid #FFD700;  /* bright yellow for contrast with dark background */
-    padding: 6px;               /* space between image and border */
-    margin: 5px 0;             /* spacing above and below the figure */
-    
+    border: 1px solid #FFD700 !important;   /* thinner yellow border */
+    padding: 4px !important;                /* smaller padding */
+    margin: 8px 0 !important;               /* a bit of vertical spacing */
+    border-radius: 3px !important;
+    background: none !important;            /* remove any background box */
+    box-shadow: none !important;            /* remove theme shadows */
 }
 
+/* Ensure only the figcaption text area has minimal styling */
 figcaption {
-    font-weight: normal;
-    font-size: 0.7em;
-    color: #FFD700;             /* match border color for consistency */
-    text-align: center;         /* center the caption */
-    margin-top: 2px;
+    border: none !important;                /* remove extra border box */
+    font-weight: normal !important;
+    font-size: 0.8em !important;
+    color: #FFD700 !important;
+    text-align: center !important;
+    margin-top: 4px !important;
+    padding: 0 !important;                  /* remove any inner padding */
+    background: none !important;            /* remove background behind caption */
+    box-shadow: none !important;            /* remove extra theme styling */
 }
-
